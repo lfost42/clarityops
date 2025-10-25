@@ -52,27 +52,27 @@ ClarityOps defines a structured path — from discovery to reflection — to hel
 ClarityOps is organized into modular milestone folders that capture the framework’s evolution, from concept to documentation and prototype design.
 
 ClarityOps/  
-├── README.md  
-├── docs/  
-│   ├── discovery/  
-│   │   ├── 01_overview.md  
-│   │   ├── 02_framework_draft.md  
-│   │   └── 03_notes_reflection.md  
-│   ├── templates/  
-│   │   ├── case_checklist.md  
-│   │   ├── maturity_map.md  
-│   │   └── feedback_log.md  
-│   ├── visualization/  
-│   │   ├── mock_dashboard.png  
-│   │   ├── dashboard_design_notes.md  
-│   │   └── feature_ideas.md  
-│   ├── documentation/  
-│   │   ├── final_reflection.md  
-│   │   ├── retrospective.md  
-│   │   └── presentation_outline.md  
-│   └── references/  
-│       ├── resources.md  
-│       └── inspiration_links.md  
+`├──` README.md  
+`├──` docs/  
+`│   ├──` discovery/  
+`│   │   ├──` 01_overview.md  
+`│   │   ├──` 02_framework_draft.md  
+`│   │   └──` 03_notes_reflection.md  
+`│   ├──` templates/  
+`│   │   ├──` case_checklist.md  
+`│   │   ├──` maturity_map.md  
+`│   │   └──` feedback_log.md  
+`│   ├──` visualization/  
+`│   │   ├──` mock_dashboard.png  
+`│   │   ├──` dashboard_design_notes.md  
+`│   │   └──` feature_ideas.md  
+`│   ├──` documentation/  
+`│   │   ├──` final_reflection.md  
+`│   │   ├──` retrospective.md  
+`│   │   └──` presentation_outline.md  
+`│   └──` references/  
+`│       ├──` resources.md  
+`│       └──` inspiration_links.md  
 
 ---
 
