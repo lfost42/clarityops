@@ -20,8 +20,8 @@ ClarityOps defines a structured path — from discovery to reflection — to hel
 ---
 
 ## 💡 Objectives  
-- Define a **six-phase troubleshooting framework**: *Connect → Learn → Analyze → Evaluate → Act → Reflect*.  
-- Create a **case deliverables checklist** to clarify what “good” looks like for each phase.  
+- Define a **multi-phase troubleshooting framework**: that breaks the support process into clear, teachable stages.  
+- Create a **case deliverables checklist** to clarify what "good" looks like for each phase.  
 - Develop **maturity milestones** to help engineers self-assess and guide mentorship.  
 - Build **templates and documentation** (in Markdown or Notion) that can evolve into automation later.  
 - Design a **future dashboard mock-up** showing what observability of process might look like.  
@@ -33,7 +33,7 @@ ClarityOps defines a structured path — from discovery to reflection — to hel
 - Case Deliverables Checklist  
 - Engineer Maturity Milestone Map  
 - Sample Runbook and Validation Template  
-- Mock Dashboard (Figma or static graphic)  
+- Mock Dashboard
 - README with reflection on next-phase automation ideas  
 
 ---
@@ -47,8 +47,34 @@ ClarityOps defines a structured path — from discovery to reflection — to hel
 | **M3: Visualization Prototype** | Design dashboard mock-ups | 25 |
 | **M4: Documentation & Reflection** | Finalize README, retrospective, presentation deck | 25 |
 
+## 🗂️ Project Structure
+
+ClarityOps is organized into modular milestone folders that capture the framework’s evolution, from concept to documentation and prototype design.
+
+ClarityOps/
+├── README.md
+├── docs/
+│   ├── discovery/
+│   │   ├── 01_overview.md
+│   │   ├── 02_framework_draft.md
+│   │   └── 03_notes_reflection.md
+│   ├── templates/
+│   │   ├── case_checklist.md
+│   │   ├── maturity_map.md
+│   │   └── feedback_log.md
+│   ├── visualization/
+│   │   ├── mock_dashboard.png
+│   │   ├── dashboard_design_notes.md
+│   │   └── feature_ideas.md
+│   ├── documentation/
+│   │   ├── final_reflection.md
+│   │   ├── retrospective.md
+│   │   └── presentation_outline.md
+│   └── references/
+│       ├── resources.md
+│       └── inspiration_links.md
+
 ---
 
 ## 🚀 Impact  
-By starting with structure, **ClarityOps** makes the troubleshooting process teachable.  
-It’s a foundation for future tools — proving that reliability isn’t just about uptime; it’s about clarity, validation, and confidence in every customer interaction. 
+By starting with structure, **ClarityOps** makes the troubleshooting process teachable. It’s a foundation for future tools that promote clarity, validation, and confidence in every customer interaction. 
