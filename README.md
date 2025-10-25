@@ -1,6 +1,8 @@
 # 🧭 ClarityOps: Support Case Maturity Framework  
 ### Designing a structure for clarity, validation, and continuous growth  
 
+![logo](./logo.png)
+
 ---
 
 ## 🪄 Overview  
