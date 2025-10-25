@@ -57,9 +57,9 @@ ClarityOps/
 `├──` README.md  
 `├──` docs/  
 `│   ├──` discovery/  
-`│   │   ├──` 01_overview.md  
-`│   │   ├──` 02_framework_draft.md  
-`│   │   └──` 03_notes_reflection.md  
+`│   │   ├──` overview.md  
+`│   │   ├──` framework.md  
+`│   │   └──` notes_reflection.md  
 `│   ├──` templates/  
 `│   │   ├──` case_checklist.md  
 `│   │   ├──` maturity_map.md  
