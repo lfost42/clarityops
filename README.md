@@ -15,7 +15,7 @@ It’s built to evolve into a measurable dashboard, but its foundation is a clea
 ## ❗ Problem  
 Support engineers often jump into incident details before confirming they fully understand the problem or its customer impact. This leads to rework, inconsistent validation, and slower trust building.  
 
-ClarityOps defines a structured path — from discovery to reflection — to help engineers stay focused, validate effectively, and communicate clearly. 
+ClarityOps defines a structured path to help engineers stay focused, validate effectively, and communicate clearly. 
 
 ---
 
