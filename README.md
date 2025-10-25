@@ -8,7 +8,7 @@
 ## 🪄 Overview  
 **ClarityOps** is an early-stage framework and prototype designed to help support teams improve case quality, consistency, and engineer maturity.  
 
-Rather than a live scoring system, this phase focuses on **defining the model**, **standardizing deliverables**, and **building tools for onboarding and coaching**. 
+This phase focuses on **defining the model**, **standardizing deliverables**, and **building tools for onboarding and coaching**. 
 
 It’s built to evolve into a measurable dashboard, but its foundation is a clear, teachable framework for how engineers learn, validate, and communicate in complex customer environments.  
 
