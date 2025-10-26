@@ -22,13 +22,22 @@ The goal: to make **clarity, validation, and consistency measurable** in technic
 
 ---
 
-## 📦 Objectives (Milestone 1)
+## 📦 Objectives
 
-- Define a **multi-phase troubleshooting framework** that breaks the support process into clear, teachable stages — outlining the purpose, expected behaviors, and handoffs at each phase to promote consistency and clarity across case handling.  
-- Create a **case deliverables checklist** to clarify what "good" looks like for each phase.  
-- Develop **maturity milestones** to help engineers self-assess and guide mentorship.  
-- Build **templates and documentation** (in Markdown or Quip) that can evolve into automation later.  
-- Design a **future dashboard mock-up** showing what observability of process might look like.  
+### Milestone 1 – Discovery (Current)
+- Define a **multi-phase troubleshooting framework** that breaks the support process into clear, teachable stages; outline the purpose, expected behaviors, and handoffs at each phase to promote consistency and clarity.  
+- Capture early feedback from peers and leadership to validate clarity, usability, and completeness.  
+- Identify the artifacts and templates required for the next phase.
+
+### Milestone 2 – Templates & Checklists (Next)
+- Build **reusable templates** for playback, STR, validation, and cadence updates based on the Discovery framework.  
+- Create the **maturity milestone map** for self-assessment and coaching.  
+- Pilot the framework with new engineers and gather structured feedback.  
+- Begin drafting **lightweight documentation** that can evolve into enablement or automation later.
+
+### Milestone 3 – Visualization & Documentation (Future)
+- Design a **dashboard mock-up** showing potential process observability.  
+- Compile retrospectives, framework refinements, and presentation materials for enablement rollout. 
 
 ---
 
@@ -74,5 +83,5 @@ Move into **Templates & Checklists**, where the conceptual framework becomes ope
 
 ---
 
-> *"Clarity is a skill, not a side effect of experience."*  
+> *Clarity is a skill, not a side effect of experience.*  
 > — ClarityOps Discovery Summary
