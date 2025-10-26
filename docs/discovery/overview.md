@@ -22,7 +22,7 @@ The goal: to make **clarity, validation, and consistency measurable** in technic
 
 ---
 
-## 📦 Objectives
+## 📦 Project Objectives
 
 ### Milestone 1 – Discovery (Current)
 - Define a **multi-phase troubleshooting framework** that breaks the support process into clear, teachable stages; outline the purpose, expected behaviors, and handoffs at each phase to promote consistency and clarity.  

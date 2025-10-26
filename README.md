@@ -56,13 +56,13 @@ ClarityOps is organized into modular milestone folders that capture the framewor
 ClarityOps/  
 `|` 
 `├──` [docs/](docs/README.md)  
-`│   ├──` [discovery/](docs/discovery)  
+`│   ├──` [discovery/](docs/discovery/)  
 `│   │   ├──` [overview.md](docs/discovery/overview.md)  
 `│   │   ├──` [framework.md](docs/discovery/framework.md)  
 `│   │   └──` [notes.md](docs/discovery/notes.md)  
-`│   ├──` [templates/]  
-`│   │   ├──` case_checklist.md  
-`│   │   ├──` maturity_map.md  
+`│   ├──` [templates/](docs/templates/)  
+`│   │   ├──` [case_checklist.md](docs/templates/case_checklist.md)  
+`│   │   ├──` [maturity_map.md](docs/templates/maturity_map.md)  
 `│   │   └──` feedback_log.md  
 `│   ├──` visualization/  
 `│   │   ├──` mock_dashboard.png  
@@ -73,8 +73,7 @@ ClarityOps/
 `│   │   ├──` retrospective.md  
 `│   │   └──` presentation_outline.md  
 `│   └──` references/  
-`│       ├──` resources.md  
-`│       └──` inspiration_links.md  
+`│       ├──` [resources.md](docs/resources.md)  
 
 ---
 

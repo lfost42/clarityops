@@ -44,7 +44,7 @@ This document summarizes lessons learned, design adjustments, and open questions
 |------|---------|-------------|
 | Lack of existing structure. | Without a shared framework, engineers default to ad-hoc troubleshooting, leading to inconsistent communication and uneven quality. | Establish clear, lightweight phases (Connect, Validate, Cadence) to provide a common anchor even in fast-moving situations. |
 | Inconsistent adoption across engineers. | Reduced clarity and uneven customer experience. | Reinforce through onboarding, templates, and peer QA reviews. |
-| Overreliance on AI-generated suggestions. | Risk of inaccurate or unverified steps being shared. | Require official documentation or internal validation before customer communication. |
+| Over-reliance on AI-generated suggestions. | Risk of inaccurate or unverified steps being shared. | Require official documentation or internal validation before customer communication. |
 
 ---
 
