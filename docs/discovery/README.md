@@ -1,21 +1,10 @@
-├── [ClarityOps](https://github.com/lfost42/clarityops)
-├── docs/
-│   ├── discovery/
-│   │   ├── overview.md
-│   │   ├── framework.md
-│   │   └── notes_reflection.md
-│   ├── templates/
-│   │   ├── case_checklist.md
-│   │   ├── maturity_map.md
-│   │   └── feedback_log.md
-│   ├── visualization/
-│   │   ├── mock_dashboard.png
-│   │   ├── dashboard_design_notes.md
-│   │   └── feature_ideas.md
-│   ├── documentation/
-│   │   ├── final_reflection.md
-│   │   ├── retrospective.md
-│   │   └── presentation_outline.md
-│   └── references/
-│       ├── resources.md
-│       └── inspiration_links.md
+# 🧭 Discovery Phase
+
+This folder contains drafts and notes from the **Discovery** phase of the ClarityOps framework: where core principles, phases, and maturity concepts were defined.
+
+### 🔗 Files
+- [overview.md](./overview.md) – Objective and scope for the discovery phase.  
+- [framework.md](./framework.md) – Draft of the multi-phase troubleshooting framework.  
+- [notes.md](./notes.md) – Insights and reflections from Discovery Phase.
+
+Return to the [Documentation Index](../README.md).

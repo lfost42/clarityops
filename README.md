@@ -54,13 +54,13 @@ ClarityOps defines a structured path to help engineers stay focused, validate ef
 ClarityOps is organized into modular milestone folders that capture the framework’s evolution, from concept to documentation and prototype design.
 
 ClarityOps/  
-`├──` README.md  
-`├──` docs/  
-`│   ├──` discovery/  
-`│   │   ├──` overview.md  
-`│   │   ├──` framework.md  
-`│   │   └──` notes_reflection.md  
-`│   ├──` templates/  
+`|` 
+`├──` [docs/](docs/README.md)  
+`│   ├──` [discovery/]  
+`│   │   ├──` [overview.md](docs/discovery/overview.md)  
+`│   │   ├──` [framework.md](docs/discovery/framework.md)  
+`│   │   └──` [notes.md](docs/discovery/notes.md)  
+`│   ├──` [templates/]  
 `│   │   ├──` case_checklist.md  
 `│   │   ├──` maturity_map.md  
 `│   │   └──` feedback_log.md  

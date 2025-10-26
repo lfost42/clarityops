@@ -1,21 +1,10 @@
-├── [ClarityOps](https://github.com/lfost42/clarityops)
-├── docs/
-│   ├── discovery/
-│   │   ├── overview.md
-│   │   ├── framework.md
-│   │   └── notes_reflection.md
-│   ├── templates/
-│   │   ├── case_checklist.md
-│   │   ├── maturity_map.md
-│   │   └── feedback_log.md
-│   ├── visualization/
-│   │   ├── mock_dashboard.png
-│   │   ├── dashboard_design_notes.md
-│   │   └── feature_ideas.md
-│   ├── documentation/
-│   │   ├── final_reflection.md
-│   │   ├── retrospective.md
-│   │   └── presentation_outline.md
-│   └── references/
-│       ├── resources.md
-│       └── inspiration_links.md
+# 🧩 Templates & Checklists
+
+This folder contains reusable **templates, checklists, and maturity mapping tools** that operationalize the ClarityOps troubleshooting framework.
+
+### 🔗 Files
+- [case_checklist.md](./case_checklist.md) – Defines what "good" looks like at each troubleshooting phase.  
+- [maturity_map.md](./maturity_map.md) – Outlines the engineer growth stages aligned to framework behaviors.  
+- [feedback_log.md](./feedback_log.md) – Space to record pilot testing notes and peer feedback.
+
+Return to the [Documentation Index](../README.md).
