@@ -56,7 +56,7 @@ ClarityOps is organized into modular milestone folders that capture the framewor
 ClarityOps/  
 `|` 
 `├──` [docs/](docs/README.md)  
-`│   ├──` [discovery/](dics/discovery)  
+`│   ├──` [discovery/](docs/discovery)  
 `│   │   ├──` [overview.md](docs/discovery/overview.md)  
 `│   │   ├──` [framework.md](docs/discovery/framework.md)  
 `│   │   └──` [notes.md](docs/discovery/notes.md)  
