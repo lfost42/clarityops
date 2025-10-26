@@ -1,4 +1,4 @@
-# 🌟 Support Case Maturity Map
+# 🌟 Maturity Map
 
 A set of outcomes that define **proficiency and direction for growth**.  
 These milestones align with the ClarityOps maturity model and support self-assessment, coaching, and career development.
@@ -25,7 +25,7 @@ These milestones align with the ClarityOps maturity model and support self-asses
 ## 🧠 Understanding
 - Defines and reaffirms **scope of impact**, distinguishing affected vs. unaffected areas.  
 - Adds relevant context (environment, configuration, recent changes).  
-- Summarizes the customer’s **pain points** to show empathy and alignment.  
+- Summarizes the customer's **pain points** to show empathy and alignment.  
 - Identifies and resolves gaps in understanding before proceeding.  
 - Adheres to **swarm cadence** when clarity is lacking.  
 
