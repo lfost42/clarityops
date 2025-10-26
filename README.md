@@ -63,7 +63,7 @@ ClarityOps/
 `│   ├──` [templates/](docs/templates/)  
 `│   │   ├──` [case_checklist.md](docs/templates/case_checklist.md)  
 `│   │   ├──` [maturity_map.md](docs/templates/maturity_map.md)  
-`│   │   └──` feedback_log.md  
+`│   │   └──` [feedback.md](docs/templates/feedback.md)  
 `│   ├──` visualization/  
 `│   │   ├──` mock_dashboard.png  
 `│   │   ├──` dashboard_design_notes.md  
