@@ -55,7 +55,6 @@ ClarityOps establishes a structured path that helps engineers stay focused, vali
 ClarityOps is organized into modular milestone folders that capture the framework’s evolution, from concept to documentation and prototype design.
 
 ClarityOps/  
-`|` 
 `├──` [docs/](docs/README.md)  
 `│   ├──` [discovery/](docs/discovery/)  
 `│   │   ├──` [overview.md](docs/discovery/overview.md)  
@@ -70,13 +69,12 @@ ClarityOps/
 `│   │   ├──` dashboard_design_notes.md  
 `│   │   └──` feature_ideas.md  
 `│   ├──` documentation/  
-`│   │   ├──` final_reflection.md  
-`│   │   ├──` retrospective.md  
-`│   │   └──` presentation_outline.md  
-`│   └──` references/  
-`│       ├──` [resources.md](docs/resources.md)  
+`│       ├──` final_reflection.md  
+`│       ├──` retrospective.md  
+`│       └──` presentation_outline.md  
+`├───────` [resources.md](docs/resources.md)  
 
 ---
 
 ## 🚀 Impact  
-By starting with structure, **ClarityOps** makes the troubleshooting process teachable. It’s a foundation for future tools that promote clarity, validation, and confidence in every customer interaction. 
+By starting with structure, **ClarityOps** makes the troubleshooting process teachable. It’s a foundation for tools that promote clarity, validation, and confidence in every customer interaction. 
