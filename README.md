@@ -15,9 +15,10 @@ It’s built to evolve into a measurable dashboard, but its foundation is a clea
 ---
 
 ## ❗ Problem  
-Support engineers often jump into incident details before confirming they fully understand the problem or its customer impact. This leads to rework, inconsistent validation, and slower trust building.  
 
-ClarityOps defines a structured path to help engineers stay focused, validate effectively, and communicate clearly. 
+Onboarding for Support Engineers is can be an esoteric process, where technical and customer-facing training are not conducted in tandem. Deliverables beyond KPIs or CSATs can be vague or inconsistently defined, leaving new engineers uncertain about what success looks like. 
+
+ClarityOps establishes a structured path that helps engineers stay focused, validate effectively, and communicate with confidence. It also introduces a maturity map that allows engineers to pursue professional growth intentionally, not merely as a byproduct of tenure or repetition. 
 
 ---
 
