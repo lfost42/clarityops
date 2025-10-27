@@ -5,40 +5,60 @@ This guide defines the **deliverables for each case** and links to the long-term
 
 ---
 
-## 🧭 Discovery & Understanding
-- [ ] A **screenshare** was offered when appropriate (e.g., high-severity cases or when details remain unclear).  
+## 🧭 Discovery & Understanding  
+**Focus:** Establish shared context and comprehension confirming scope, urgency, and clarity before investigation begins.  
+
+- [ ] A **screenshare** was offered when appropriate (e.g., Sev1/2s, hot Sev2s, or cases that remain unclear after initial interactions).  
 - [ ] **Scope** has been clarified and documented.  
 - [ ] **Urgency** has been clarified and documented.  
 - [ ] Discovery questions were asked to gather complete context.  
 - [ ] Follow-up questions were used to clarify the problem and understand the issue.  
-- [ ] The correct **Product & Topic** are identified.  
+- [ ] Details of **call sessions** are documented in a case comment.  
+- [ ] The correct **Product & Topic** is identified.  
 
 ---
 
-## ⚙️ Technical Validation
+## ⚙️ Technical Validation  
+**Focus:** Confirm reproducibility and quality of evidence, ensuring findings are verifiable and complete before analysis.  
+
 - [ ] **Steps to Reproduce (STR)** are documented accurately.  
 - [ ] STR has been **reproduced and validated internally**.  
-- [ ] **Supporting documentation** (logs, screenshots, configs) has been attached.  
-- [ ] Gaps in understanding or reproducibility have been identified and addressed.  
-- [ ] Proposed solutions have been **validated internally** with supporting evidence attached.  
+- [ ] **Supporting documentation** has been attached to the case.  
+- [ ] Gaps in understanding or reproducibility have been identified and addressed before proceeding.  
+- [ ] Evidence from the customer has been reviewed for accuracy and completeness.  
 
 ---
 
-## 💬 Communication & Cadence
+## 🔍 Analysis  
+**Focus:** Investigate, correlate, and validate — identifying root causes through research, logs, and expert collaboration.  
+
+- [ ] Relevant logs (e.g., **Splunk**, debug logs, console, browser, system logs) have been analyzed for errors, trends, or performance indicators.  
+- [ ] Prior related or similar cases and investigaitons have been reviewed for possible patterns or precedents.  
+- [ ] Official documentation, internal articles, and trusted external sources have been searched and referenced.  
+- [ ] When leveraging **AI**, all troubleshooting steps are performed by the engineer.  
+- [ ] **AI-generated solutions** are validated with appropriate public-facing, official knowledge articles.  
+- [ ] Issue is **swarmed with Subject Matter Expertise channels** when next steps are unclear.  
+
+---
+
+## 💬 Communication & Cadence  
+**Focus:** Maintain transparency and consistency — ensuring customers and internal stakeholders are informed and aligned.  
+
 - [ ] **Next steps and timelines** are clearly defined and documented within the last 2 working days (or agreed cadence).  
-- [ ] The **top case comment** is no older than 2 working days and includes either a public update or an internal note with next steps.  
-- [ ] **Swarming and GUS progress** are documented when relevant.  
-- [ ] Cases are placed in **NMI or SP** before going OOO for longer than a day.  
+- [ ] The **top case comment** is no older than 2 working days and includes either a public update or internal comment that identifies next steps.  
+- [ ] **Swarming and Investigation progress** are documented when necessary.  
+- [ ] Cases are placed in **Needs More Information or Solution Provided** prior to going out of office for longer than a day.  
 
 ---
 
-## 🚀 Execution & Escalation
-- [ ] Troubleshooting, escalation, and validation steps are fully documented.  
+## 🚀 Execution & Escalation  
+**Focus:** Drive resolution and accountability — documenting decisions, validations, and ensuring timely collaboration.  
+
+- [ ] Documentation of troubleshooting, escalation, and validation steps is complete and accurate.  
 - [ ] All key decisions, reproductions, and solution validations are recorded in the case notes.  
-- [ ] **Escalation cadence and timelines** are followed when a path to resolution is unclear:  
-  - All Cases: Swarm if next steps not identified within **2 working days**.  
-  - Specialty/Dev Cases: Swarm **<5 days**, Structured Investigation **<7 days**.  
-  - GU/Sub-scale Cases: Swarm **<2 days**, Structured Investigation **<5 days**.  
+- [ ] **Escalation cadence and timelines** are followed when a path to resolution is not clearly defined:  
+  - Swarm if next steps have not been identified within **2 working days**.  
+  - Structured Investigation if next steps have not been identified within **5 working days**.  
 
 ---
 

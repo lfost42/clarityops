@@ -5,70 +5,95 @@ These milestones align with the ClarityOps maturity model and support self-asses
 
 ---
 
-## 📋 Process Discipline
-- Maintains case hygiene by updating **top comments and statuses** regularly.  
-- Prepares cases in **NMI or SP** and enables SupportBot notifications when OOO.  
-- Transfers **AMER handovers** to the next GEO or queue at end of shift.  
+## 📋 Process Discipline  
+**Focus:** Consistency and ownership: maintaining strong case hygiene, proactive handoffs, and operational readiness.  
+
+- [ ] Maintains case hygiene by updating top comments and statuses regularly, especially when cases remain in Working status.  
+- [ ] Prepares cases in Needs More Information or Solution Provided when possible and enables SupportBot notifications prior to going out of office.  
+- [ ] Transfers case handovers to the following GEO or queue at EOS.  
 
 ---
 
-## 🔍 Discovery
-- Uses **screenshares** effectively to gather and confirm information.  
-- Restates the problem in own words to confirm comprehension.  
-- Asks discovery questions to confirm understanding and gather full context.  
-- Clarifies **scope and urgency** for correct prioritization.  
-- Asks **targeted follow-ups** to remove ambiguity.  
-- Identifies and probes **pain points** to surface customer blockers.  
+## 🔍 Discovery  
+**Focus:** Effective information gathering: establishing clarity, context, and accurate scope early in the case lifecycle.  
+
+- [ ] Uses screenshares effectively to gather and confirm information.  
+- [ ] Documents all important call info in a case comment.  
+- [ ] Restates the problem in own words to confirm comprehension.  
+- [ ] Asks discovery questions to confirm understanding and gather complete context.  
+- [ ] Clarifies scope and urgency to ensure appropriate prioritization and response.  
+- [ ] Asks targeted follow-up questions to clarify the problem and understand the issue.  
+- [ ] Identifies and probes pain points to uncover the customer's underlying concerns or blockers.  
 
 ---
 
-## 🧠 Understanding
-- Defines and reaffirms **scope of impact**, distinguishing affected vs. unaffected areas.  
-- Adds relevant context (environment, configuration, recent changes).  
-- Summarizes the customer's **pain points** to show empathy and alignment.  
-- Identifies and resolves gaps in understanding before proceeding.  
-- Adheres to **swarm cadence** when clarity is lacking.  
+## 🧠 Understanding  
+**Focus:** Depth of comprehension: connecting technical symptoms to business impact and identifying knowledge gaps.  
+
+- [ ] Defines and reaffirms the scope of impact, distinguishing affected and unaffected areas.  
+- [ ] Includes related context such as environment, configuration, and recent changes when relevant.  
+- [ ] Summarizes the customer's pain points to demonstrate empathy and alignment.  
+- [ ] Identifies gaps in understanding and proactively clarifies them before moving forward.  
+- [ ] Adheres to swarm cadence when understanding is not clearly defined.  
 
 ---
 
-## 🔬 Validation
-- Requests and attaches all relevant **supporting documentation**.  
-- Validates STR using internal testing environments.  
-- Documents **accurate STR** mirroring true customer behavior.  
-- Researches applicable **knowledge articles** or trusted resources.  
-- Validates all proposed solutions internally (e.g., Knowledge Article, demo-org, swarm) before recommending.  
-- Connects findings to **expected vs. actual outcomes**.  
+## 🔬 Validation  
+**Focus:** Technical verification and reproducibility: ensuring each issue is reproducible, well-documented, and accurately tested.  
+
+- [ ] Requests and attaches all valid supporting documentation to the case.  
+- [ ] Validates **Steps to Reproduce** using internal testing.  
+- [ ] Documented Steps to Reproduce reflect true customer behavior and environment.  
+- [ ] Reproduces issues in isolated **lab environments** for testing and isolating potential root causes.  
+- [ ] Demonstrates proficiency in evaluating log data (**Splunk**, debug, console, HAR files) for underlying errors, trends, or systemic issues.  
 
 ---
 
-## 💬 Communication
-- Outlines **next steps, ownership, and timelines** at each interaction.  
-- Keeps the case record updated with **progress, changes, and findings**.  
-- Ensures all **status and next-step notes** are clear and current.  
-- Communicates with **accuracy, empathy, and transparency**.  
-- Summarizes **swarm progress** when stalled.  
-- Notes why cases are stalled if no pending action is visible.  
-- Leaves internal note when case remains in Working status at end of shift.  
+## 🔍 Analysis  
+**Focus:** Root cause determination and evidence-based reasoning: identifying patterns, using tools responsibly, and validating hypotheses.  
+
+- [ ] Identifies patterns across related cases and investigations, and references data in internal notes.  
+- [ ] Leverages **AI responsibly** for insight generation rather than decision-making.  
+- [ ] Validates **AI-generated hypotheses** using official knowledge documents and human review.  
+- [ ] Documents evidence trail clearly (what was tested, observed, and confirmed) to support post-case learning.  
+- [ ] Swarms early when analysis reveals ambiguity or potential cross-cloud dependencies.  
 
 ---
 
-## 🏁 Proficiency
-- Manages cases from start to resolution with **ownership and accountability**.  
-- Maintains update frequency (every **2 business days**) and escalation cadence.  
-- Demonstrates precision in STR validation, escalation handling, and documentation quality.  
-- Earns positive customer feedback on clarity and trust-building.  
-- Updates the correct **Product & Topic** when required.  
-- Reflects regularly and shares **lessons learned** for team visibility.  
+## 💬 Communication  
+**Focus:** Clarity, transparency, and empathy — keeping stakeholders informed and aligned through consistent updates.  
+
+- [ ] Outlines next steps, ownership, and timelines at each interaction.  
+- [ ] Keeps the case record updated with progress, changes, and findings.  
+- [ ] Ensures all status and next-step notes remain clear and current.  
+- [ ] Communicates findings with accuracy, empathy, and transparency.  
+- [ ] Summarizes swarm status and progress when the case is otherwise stalled.  
+- [ ] Adds case comment to clarify why cases are stalled if no pending action is apparent.  
+- [ ] Adds internal note when case is left in Working status at EOS.  
 
 ---
 
-## 🌟 Leadership
-- Contributes to **knowledge base improvements**, automation ideas, or new KA content.  
-- Leads by example in accuracy, trust, and proactive updates.  
-- Mentors peers on verification, communication, and validation best practices.  
-- Maintains consistently strong customer and peer feedback.  
-- Participates in **retrospectives and process evolution**.  
-- Leads **office hours or topic-specific sessions** for peer learning.  
+## 🏁 Proficiency  
+**Focus:** Case ownership and execution — demonstrating mastery through consistency, accountability, and results.  
+
+- [ ] Manages cases from start to resolution with ownership and accountability.  
+- [ ] Maintains customer update frequency (every 2 business days) and adheres to escalation cadence.  
+- [ ] Demonstrates accuracy in STR validation, escalation handling, and documentation quality.  
+- [ ] Updates the correct Product & Topic when required.  
+- [ ] Earns positive customer feedback on clarity, transparency, and trust-building.  
+- [ ] Reflects regularly and documents lessons learned for team visibility.  
+
+---
+
+## 🌟 Leadership  
+**Focus:** Mentorship, collaboration, and continuous improvement, empowering others and contributing to shared knowledge.  
+
+- [ ] Contributes to knowledge base improvements, automation ideas, or new KA content.  
+- [ ] Leads by example in maintaining accuracy, trust, and proactive updates.  
+- [ ] Mentors peers on verification, communication, and validation best practices.  
+- [ ] Maintains consistently strong feedback from both customers and peers.  
+- [ ] Participates actively in retrospectives and process evolution.  
+- [ ] Leads office hours for select topics.  
 
 ---
 
