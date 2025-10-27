@@ -44,7 +44,7 @@ These milestones align with the ClarityOps maturity model and support self-asses
 - [ ] Requests and attaches all valid supporting documentation to the case.  
 - [ ] Validates **Steps to Reproduce** using internal testing.  
 - [ ] Documented Steps to Reproduce reflect true customer behavior and environment.  
-- [ ] Reproduces issues in isolated **lab environments** for testing and isolating potential root causes.  
+- [ ] Reproduces issues in isolated **sandbox environments** for testing and isolating potential root causes.  
 - [ ] Demonstrates proficiency in evaluating log data (**Splunk**, debug, console, HAR files) for underlying errors, trends, or systemic issues.  
 
 ---
