@@ -69,10 +69,10 @@ ClarityOps/
 `│   │   ├──` dashboard_design_notes.md  
 `│   │   └──` feature_ideas.md  
 `│   ├──` documentation/  
-`│       ├──` final_reflection.md  
-`│       ├──` retrospective.md  
-`│       └──` presentation_outline.md  
-`├───────` [resources.md](docs/resources.md)  
+`│   │   ├──` final_reflection.md  
+`│   │   ├──` retrospective.md  
+`│   │   └──` presentation_outline.md  
+`│   └───` [resources.md](docs/resources.md)  
 
 ---
 
